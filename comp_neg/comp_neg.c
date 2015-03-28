@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+#include<comp_neg.h>
 static void print_twoscomplement(int num){
 
 char  str[32]; 
